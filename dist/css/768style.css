@@ -1,0 +1,42 @@
+@media all and (max-width: 768px) {
+  #intro {
+    height: 100%;
+    background: url(../img/8frog%202.jpg);
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+  }
+  #title-h {
+    margin-top: -10%;
+    font-size: 35px;
+    text-align: right;
+  }
+
+  #subtitle-h {
+    font-size: 30px;
+
+    text-align: right;
+    margin-top: -2%;
+  }
+  #subtitle2-h {
+    margin-top: -3%;
+    font-size: 20px;
+    text-align: right;
+    padding-left: 10%;
+  }
+
+  .scrolling-navbar {
+    background-color: #1a0d00;
+  }
+
+  .top-nav-collapse {
+    background-color: #bf360c;
+  }
+  #camera,
+  #girl,
+  #boy,
+  #motor {
+    display: none;
+  }
+}

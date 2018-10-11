@@ -1,0 +1,42 @@
+/* Your custom styles */
+
+html,
+body,
+header {
+  height: 100%;
+}
+
+#intro {
+  height: 100%;
+  background: url(../img/6frog.jpg);
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.top-nav-collapse {
+  background-color: #bf360c;
+}
+
+.align-items-top {
+  margin-top: 300px;
+}
+
+.btn {
+  margin-top: 100px;
+}
+
+#about,
+#schedule {
+  background-color: #ffffff;
+}
+
+#news,
+#register {
+  background-color: #eeeeee;
+}
+
+#news {
+  font-size: 15px;
+}
